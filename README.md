@@ -267,7 +267,6 @@ COURIER.HTML
 ## Output:
 
 ![index](https://github.com/Jaisriram28/places-around-me/assets/122092094/1ea6e7c4-a100-43e4-85de-ab27511e6163)
-![school](https://github.com/Jaisriram28/places-around-me/assets/122092094/352a5d63-e4ee-48e6-8944-af16f49fc7ce)
 ![saloon](https://github.com/Jaisriram28/places-around-me/assets/122092094/add1e634-abd7-4d2e-bac8-515d464c0326)
 ![gym](https://github.com/Jaisriram28/places-around-me/assets/122092094/f639f318-42c3-49b7-acee-06178ef35593)
 ![church](https://github.com/Jaisriram28/places-around-me/assets/122092094/1c344950-adff-4db8-b97e-62ccc3117219)
