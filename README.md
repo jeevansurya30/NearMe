@@ -21,7 +21,7 @@ WRITE THE NEEDED HTML CODE
 RUN THE DJANGO SERVER AND EXECUTE THE HTML FILES
 
 ## Code:
-~!~~
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
