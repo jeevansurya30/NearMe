@@ -198,4 +198,4 @@ The main objectives of Tirupattur Government Higher Secondary School are
 ![Alt text](d.html.png)
 ![Alt text](e.html.png)
 ## Result:
-THE PROGRAM FOR IMPLEMENTING IMAGEMAP IS EXECUTED SUCCESSFULLY
+THE PROGRAM FOR IMPLEMENTING IMAGEMAP IS EXECUTED SUCCESSFULLY.
